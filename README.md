@@ -1,7 +1,7 @@
 # Hi there, I'm Bogdan Iftoda 👋
 
 ## 🚀 About Me
-I'm a passionate software developer with a strong interest in open-source projects and continuous learning. I enjoy solving complex problems and building innovative solutions.
+Passionate Software Developer
 
 ## 🛠️ Skills
 - **Languages**: Python, JavaScript, TypeScript, C++
